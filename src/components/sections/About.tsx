@@ -28,7 +28,7 @@ const About = () => {
         <div className="relative group">
           <div className="relative z-10">
             <img
-              src="https://via.placeholder.com/400"
+              src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d"
               alt="Profile"
               className="rounded grayscale hover:grayscale-0 transition-all"
             />

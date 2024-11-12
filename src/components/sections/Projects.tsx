@@ -8,7 +8,7 @@ const projects = [
     tech: ['React', 'Node.js', 'Spotify API'],
     github: '#',
     external: '#',
-    image: 'https://via.placeholder.com/600x400',
+    image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b',
   },
   {
     title: 'Project Two',
@@ -16,7 +16,7 @@ const projects = [
     tech: ['VS Code', 'Sublime Text', 'Atom'],
     github: '#',
     external: '#',
-    image: 'https://via.placeholder.com/600x400',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475',
   },
 ];
 
