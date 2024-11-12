@@ -5,10 +5,12 @@ import Skills from '@/components/sections/Skills';
 import Projects from '@/components/sections/Projects';
 import Contact from '@/components/sections/Contact';
 import Education from '@/components/sections/Education';
+import ParticleBackground from '@/components/ui/ParticleBackground';
 
 const Index = () => {
   return (
     <main className="bg-navy min-h-screen">
+      <ParticleBackground />
       <Hero />
       <About />
       <Education />
